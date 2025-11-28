@@ -1,4 +1,4 @@
-Juego de Picas y Fijas plantea el número secreto
+#Juego de Picas y Fijas plantea el número secreto
 Dig_uno=int(input("Ingresa el número a adivinar debe ser de cuatro digitos y que no se repitan entre ellos, Aquí agrega el primer digito: "))
 if Dig_uno > 0 and Dig_uno <= 9:
   print("El primer digito que agregaste es",Dig_uno)
